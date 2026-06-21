@@ -1,3 +1,34 @@
+# EchoLoop App
+
+Minimal single-page application for the EchoLoop project.
+
+## Development
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Notes
+
+- Project files live in the `echoloop-app` folder.
+
+## License
+
+MIT
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
